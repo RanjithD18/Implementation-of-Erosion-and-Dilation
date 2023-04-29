@@ -56,7 +56,7 @@ cv2.destroyAllWindows()
 ![](https://github.com/RanjithD18/Implementation-of-Erosion-and-Dilation/blob/main/1.png)
 
 ### Display the Eroded Image
-1[](https://github.com/RanjithD18/Implementation-of-Erosion-and-Dilation/blob/main/2.png)
+![](https://github.com/RanjithD18/Implementation-of-Erosion-and-Dilation/blob/main/2.png)
 
 ### Display the Dilated Image
 ![](https://github.com/RanjithD18/Implementation-of-Erosion-and-Dilation/blob/main/3.png)
